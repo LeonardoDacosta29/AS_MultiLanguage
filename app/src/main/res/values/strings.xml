@@ -15,7 +15,7 @@
     <string name="nama">Name</string>
     <string name="telp">Telephone</string>
     <string name="sandi">password</string>
-    <string name="tgllahir">Birth Date</string>
+    <string name="tglLahir">Birth Date</string>
     <string name="ulang">Reset</string>
     <string name="simpan">Save</string>
 </resources>

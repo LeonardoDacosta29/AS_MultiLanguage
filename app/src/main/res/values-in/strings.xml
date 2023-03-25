@@ -16,7 +16,7 @@
     <string name="nama">Nama</string>
     <string name="telp">Telephone</string>
     <string name="sandi">Sandi</string>
-    <string name="tgllahir">Tgl Lahir</string>
+    <string name="tglLahir">Tgl Lahir</string>
     <string name="ulang">Ulang</string>
     <string name="simpan">Simpan</string>
 </resources>
